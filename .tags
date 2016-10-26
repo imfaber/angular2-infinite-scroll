@@ -1,0 +1,116 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+@angular/common	package.json	/^    "@angular\/common": "^2.0.0-rc.4",$/;"	f
+@angular/compiler	package.json	/^    "@angular\/compiler": "^2.0.0-rc.4",$/;"	f
+@angular/core	package.json	/^    "@angular\/core": "^2.0.0-rc.4",$/;"	f
+@angular/platform-browser	package.json	/^    "@angular\/platform-browser": "^2.0.0-rc.4",$/;"	f
+@angular/platform-browser-dynamic	package.json	/^    "@angular\/platform-browser-dynamic": "^2.0.0-rc.4",$/;"	f
+arrowFunctions	.eslintrc.json	/^      "arrowFunctions": true,$/;"	f
+author	package.json	/^  "author": "Oren Farhi",$/;"	f
+autodts	package.json	/^    "autodts": "0.0.6",$/;"	f
+awesomeTypescriptLoaderOptions	src/tsconfig.json	/^  "awesomeTypescriptLoaderOptions": {$/;"	f
+awesomeTypescriptLoaderOptions	tsconfig.json	/^  "awesomeTypescriptLoaderOptions": {$/;"	f
+blockBindings	.eslintrc.json	/^      "blockBindings": true,$/;"	f
+browser	.eslintrc.json	/^    "browser": true,$/;"	f
+build:test	package.json	/^    "build:test": "tsc --project .\/src",$/;"	f
+classes	.eslintrc.json	/^      "classes": true$/;"	f
+clean	package.json	/^    "clean": "rimraf src\/*.js && rimraf src\/*.d.ts && rimraf .\/*scroll.js && rimraf .\/*scroll.d.ts",$/;"	f
+commonjs	.eslintrc.json	/^    "commonjs": true,$/;"	f
+compilerOptions	src/tsconfig.json	/^  "compilerOptions": {$/;"	f
+compilerOptions	tsconfig.json	/^	"compilerOptions": {$/;"	f
+core-js	typings.json	/^    "core-js": "registry:dt\/core-js#0.0.0+20160602141332",$/;"	f
+declaration	tsconfig.json	/^      "declaration": true,$/;"	f
+dependencies	typings.json	/^  "dependencies": {},$/;"	f
+description	package.json	/^  "description": "An infinite scroll directive for angular2",$/;"	f
+destructuring	.eslintrc.json	/^      "destructuring": true,$/;"	f
+dev	package.json	/^    "dev": "npm run watch & npm test",$/;"	f
+devDependencies	package.json	/^  "devDependencies": {$/;"	f
+ecmaFeatures	.eslintrc.json	/^    "ecmaFeatures": {$/;"	f
+ecmaVersion	.eslintrc.json	/^    "ecmaVersion": 6,$/;"	f
+emitDecoratorMetadata	src/tsconfig.json	/^    "emitDecoratorMetadata": true,$/;"	f
+emitDecoratorMetadata	tsconfig.json	/^      "emitDecoratorMetadata": true,$/;"	f
+env	.eslintrc.json	/^  "env": {$/;"	f
+es6	.eslintrc.json	/^    "es6": true,$/;"	f
+es6-promise	package.json	/^    "es6-promise": "^3.0.2",$/;"	f
+es6-shim	package.json	/^    "es6-shim": "^0.33.3",$/;"	f
+exclude	src/tsconfig.json	/^  "exclude": [$/;"	f
+exclude	tsconfig.json	/^	"exclude": [$/;"	f
+experimentalDecorators	src/tsconfig.json	/^    "experimentalDecorators": true,$/;"	f
+experimentalDecorators	tsconfig.json	/^      "experimentalDecorators": true,$/;"	f
+extends	.eslintrc.json	/^  "extends": "eslint:recommended"$/;"	f
+files	src/tsconfig.json	/^    "files": [$/;"	f
+files	tsconfig.json	/^	"files": [$/;"	f
+forkChecker	src/tsconfig.json	/^    "forkChecker": true,$/;"	f
+forkChecker	tsconfig.json	/^    "forkChecker": true,$/;"	f
+globalDependencies	typings.json	/^  "globalDependencies": {$/;"	f
+globals	.eslintrc.json	/^  "globals": {$/;"	f
+indent	.eslintrc.json	/^    "indent": [$/;"	f
+inject	.eslintrc.json	/^    "inject": true,$/;"	f
+inlineSourceMap	src/tsconfig.json	/^    "inlineSourceMap": true,$/;"	f
+inlineSourceMap	tsconfig.json	/^      "inlineSourceMap": true,$/;"	f
+inlineSources	src/tsconfig.json	/^    "inlineSources": true,$/;"	f
+inlineSources	tsconfig.json	/^      "inlineSources": true,$/;"	f
+jasmine	.eslintrc.json	/^    "jasmine": true$/;"	f
+jasmine	.eslintrc.json	/^    "jasmine": true,$/;"	f
+jasmine	typings.json	/^    "jasmine": "registry:dt\/jasmine#2.2.0+20160505161446",$/;"	f
+jasmine-core	package.json	/^    "jasmine-core": "2.4.1",$/;"	f
+karma	package.json	/^    "karma": "^0.13.22",$/;"	f
+karma-chrome-launcher	package.json	/^    "karma-chrome-launcher": "^1.0.1",$/;"	f
+karma-cli	package.json	/^    "karma-cli": "^1.0.0",$/;"	f
+karma-jasmine	package.json	/^    "karma-jasmine": "^1.0.2",$/;"	f
+karma-mocha-reporter	package.json	/^    "karma-mocha-reporter": "2.0.4",$/;"	f
+karma-phantomjs-launcher	package.json	/^    "karma-phantomjs-launcher": "1.0.0",$/;"	f
+keywords	package.json	/^  "keywords": [$/;"	f
+license	package.json	/^  "license": "MIT",$/;"	f
+linebreak-style	.eslintrc.json	/^    "linebreak-style": [$/;"	f
+lite	package.json	/^    "lite": "lite-server",$/;"	f
+lite-server	package.json	/^    "lite-server": "2.2.0",$/;"	f
+main	package.json	/^  "main": "angular2-infinite-scroll.js",$/;"	f
+module	src/tsconfig.json	/^    "module": "commonjs",$/;"	f
+module	tsconfig.json	/^      "module": "commonjs",$/;"	f
+moduleResolution	src/tsconfig.json	/^    "moduleResolution": "node",$/;"	f
+moduleResolution	tsconfig.json	/^      "moduleResolution": "node"$/;"	f
+modules	.eslintrc.json	/^      "modules": true,$/;"	f
+name	package.json	/^  "name": "angular2-infinite-scroll",$/;"	f
+name	typings.json	/^  "name": "angular2-infinite-scroll",$/;"	f
+noImplicitAny	src/tsconfig.json	/^    "noImplicitAny": true,$/;"	f
+noImplicitAny	tsconfig.json	/^	    "noImplicitAny": true,$/;"	f
+node	.eslintrc.json	/^    "node": true$/;"	f
+node	typings.json	/^    "node": "registry:dt\/node#6.0.0+20160613154055"$/;"	f
+parserOptions	.eslintrc.json	/^  "parserOptions": {$/;"	f
+path	package.json	/^    "path": "^0.12.7",$/;"	f
+phantomjs-prebuilt	package.json	/^    "phantomjs-prebuilt": "^2.1.7",$/;"	f
+postinstall	package.json	/^    "postinstall": "npm run typings -- install",$/;"	f
+prepublish	package.json	/^    "prepublish": "tsc & node make.js",$/;"	f
+pretest	package.json	/^    "pretest": "npm run clean && npm run build:test",$/;"	f
+quotes	.eslintrc.json	/^    "quotes": [$/;"	f
+reflect-metadata	package.json	/^    "reflect-metadata": "0.1.2",$/;"	f
+removeComments	src/tsconfig.json	/^    "removeComments": false,$/;"	f
+repository	package.json	/^  "repository": "orizens\/angular2-infinite-scroll",$/;"	f
+rimraf	package.json	/^    "rimraf": "2.5.2",$/;"	f
+rules	.eslintrc.json	/^  "rules": {$/;"	f
+rxjs	package.json	/^    "rxjs": "5.0.0-beta.6",$/;"	f
+scripts	package.json	/^  "scripts": {$/;"	f
+semi	.eslintrc.json	/^    "semi": [$/;"	f
+sourceType	.eslintrc.json	/^    "sourceType": "module",$/;"	f
+start	package.json	/^    "start": "npm run build && npm run lite",$/;"	f
+suppressImplicitAnyIndexErrors	src/tsconfig.json	/^    "suppressImplicitAnyIndexErrors": true$/;"	f
+suppressImplicitAnyIndexErrors	tsconfig.json	/^      "suppressImplicitAnyIndexErrors": true,$/;"	f
+systemjs	package.json	/^    "systemjs": "0.19.31",$/;"	f
+systemjs-builder	package.json	/^    "systemjs-builder": "^0.15.16",$/;"	f
+target	src/tsconfig.json	/^    "target": "es5",$/;"	f
+target	tsconfig.json	/^      "target": "es5",$/;"	f
+test	package.json	/^    "test": "karma start karma.conf.js",$/;"	f
+typescript	package.json	/^    "typescript": "^1.7.5",$/;"	f
+typings	package.json	/^    "typings": "1.2.0",$/;"	f
+typings	package.json	/^    "typings": "typings"$/;"	f
+typings	package.json	/^  "typings": ".\/angular2-infinite-scroll.d.ts",$/;"	f
+useWebpackText	src/tsconfig.json	/^    "useWebpackText": true$/;"	f
+useWebpackText	tsconfig.json	/^    "useWebpackText": true$/;"	f
+version	package.json	/^  "version": "0.1.9",$/;"	f
+watch	package.json	/^    "watch": "tsc --project .\/src --watch",$/;"	f
+zone.js	package.json	/^    "zone.js": "0.6.12"$/;"	f

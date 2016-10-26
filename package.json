@@ -1,0 +1,127 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular2-infinite-scroll@0.1.92",
+        "scope": null,
+        "escapedName": "angular2-infinite-scroll",
+        "name": "angular2-infinite-scroll",
+        "rawSpec": "0.1.92",
+        "spec": "0.1.92",
+        "type": "version"
+      },
+      "/home/fab/LSAR/app_src/web"
+    ]
+  ],
+  "_from": "angular2-infinite-scroll@0.1.92",
+  "_id": "angular2-infinite-scroll@0.1.92",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular2-infinite-scroll",
+  "_nodeVersion": "5.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/angular2-infinite-scroll-0.1.92.tgz_1471363016528_0.8943652270827442"
+  },
+  "_npmUser": {
+    "name": "orizens",
+    "email": "farhioren@gmail.com"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular2-infinite-scroll@0.1.92",
+    "scope": null,
+    "escapedName": "angular2-infinite-scroll",
+    "name": "angular2-infinite-scroll",
+    "rawSpec": "0.1.92",
+    "spec": "0.1.92",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-infinite-scroll/-/angular2-infinite-scroll-0.1.92.tgz",
+  "_shasum": "0e8a4ee282a75822b2eb0f20d3276fa27b1a0d2c",
+  "_shrinkwrap": null,
+  "_spec": "angular2-infinite-scroll@0.1.92",
+  "_where": "/home/fab/LSAR/app_src/web",
+  "author": {
+    "name": "Oren Farhi"
+  },
+  "bugs": {
+    "url": "https://github.com/orizens/angular2-infinite-scroll/issues"
+  },
+  "dependencies": {},
+  "description": "An infinite scroll directive for angular2",
+  "devDependencies": {
+    "@angular/common": "^2.0.0-rc.4",
+    "@angular/compiler": "^2.0.0-rc.4",
+    "@angular/core": "^2.0.0-rc.4",
+    "@angular/platform-browser": "^2.0.0-rc.4",
+    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
+    "autodts": "0.0.6",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "jasmine-core": "2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cli": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-mocha-reporter": "2.0.4",
+    "karma-phantomjs-launcher": "1.0.0",
+    "lite-server": "2.2.0",
+    "path": "^0.12.7",
+    "phantomjs-prebuilt": "^2.1.7",
+    "reflect-metadata": "0.1.2",
+    "rimraf": "2.5.2",
+    "rxjs": "5.0.0-beta.6",
+    "systemjs": "0.19.31",
+    "systemjs-builder": "^0.15.16",
+    "typescript": "^1.7.5",
+    "typings": "1.2.0",
+    "zone.js": "0.6.12"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "0e8a4ee282a75822b2eb0f20d3276fa27b1a0d2c",
+    "tarball": "https://registry.npmjs.org/angular2-infinite-scroll/-/angular2-infinite-scroll-0.1.92.tgz"
+  },
+  "gitHead": "6ec6fbf6744f6f541d659d3d2241f9bbfd661191",
+  "homepage": "https://github.com/orizens/angular2-infinite-scroll#readme",
+  "keywords": [
+    "angular2",
+    "scroll",
+    "infinite"
+  ],
+  "license": "MIT",
+  "main": "angular2-infinite-scroll.js",
+  "maintainers": [
+    {
+      "name": "orizens",
+      "email": "farhioren@gmail.com"
+    }
+  ],
+  "name": "angular2-infinite-scroll",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orizens/angular2-infinite-scroll.git"
+  },
+  "scripts": {
+    "build:test": "tsc --project ./src",
+    "clean": "rimraf src/*.js && rimraf src/*.d.ts && rimraf ./*scroll.js && rimraf ./*scroll.d.ts",
+    "dev": "npm run watch & npm test",
+    "lite": "lite-server",
+    "postinstall": "npm run typings -- install",
+    "prepublish": "tsc & node make.js",
+    "pretest": "npm run clean && npm run build:test",
+    "start": "npm run build && npm run lite",
+    "test": "karma start karma.conf.js",
+    "typings": "typings",
+    "watch": "tsc --project ./src --watch"
+  },
+  "typings": "./angular2-infinite-scroll.d.ts",
+  "version": "0.1.92"
+}
