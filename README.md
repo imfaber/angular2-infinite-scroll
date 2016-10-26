@@ -1,3 +1,6 @@
+The reason why we need this is because the version we use and that works with our angular version needs a fix for IE
+If angular gets updated we can get back to the offical repo.
+
 [![Build Status](https://travis-ci.org/orizens/angular2-infinite-scroll.svg?branch=master)](https://travis-ci.org/orizens/angular2-infinite-scroll)
 
 # Angular 2 Infinite Scroll
